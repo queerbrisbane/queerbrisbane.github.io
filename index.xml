@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Queer Brisbane</title>
+    <link>http://localhost:40991/</link>
+    <description>Recent content on Queer Brisbane</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 Queer Brisbane</copyright>
+    <lastBuildDate>Tue, 28 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:40991/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Welcome to Queer Brisbane</title>
+      <link>http://localhost:40991/posts/welcome/</link>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:40991/posts/welcome/</guid>
+      <description>&lt;p&gt;We&amp;rsquo;re excited to launch the Queer Brisbane website — a space for the LGBTQIA+ community in Brisbane to stay connected, find events, and access local resources.&lt;/p&gt;&#xA;&lt;p&gt;Stay tuned for more updates!&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
